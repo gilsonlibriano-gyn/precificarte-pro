@@ -1,0 +1,7 @@
+{
+  "name": "PrecificArte Pro",
+  "description": "A comprehensive confectionery management system featuring inventory tracking, technical datasheet creation, order scheduling, and AI-powered recipe insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
